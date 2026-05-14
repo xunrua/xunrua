@@ -20,9 +20,9 @@ jobs:
 
       - name: Download GitHub Stats SVGs
         run: |
-          curl -sL "https://github-readme-streak-stats.herokuapp.com/?user=xunrua&theme=transparent&stroke=9b6dff&ring=ffd700&fire=ef7a35&currStreakNum=e0c3fc&sideNums=ff6b9d&currStreakLabel=9b6dff&sideLabels=e0c3fc&dates=9b6dff" > assets/streak.svg
-          curl -sL "https://github-profile-trophy.vercel.app/?username=xunrua&theme=dracula&no-frame=true&row=1&column=7&title_color=9b6dff&margin-w=10" > assets/trophy.svg
-          curl -sL "https://github-readme-activity-graph.vercel.app/graph?username=xunrua&theme=react-dark&bg_color=00000000&color=e0c3fc&line=9b6dff&point=ffd700&area=true&area_color=9b6dff30" > assets/activity.svg
+          curl -sL "https://github-readme-streak-stats.herokuapp.com/?user=xunrua&theme=transparent&stroke=6CABDD&ring=FFCE00&fire=FFC659&currStreakNum=6CABDD&sideNums=FFCE00&currStreakLabel=6CABDD&sideLabels=6CABDD&dates=1C2C5B" > assets/streak.svg
+          curl -sL "https://github-profile-trophy.vercel.app/?username=xunrua&theme=dracula&no-frame=true&row=1&column=7&title_color=6CABDD&margin-w=10" > assets/trophy.svg
+          curl -sL "https://github-readme-activity-graph.vercel.app/graph?username=xunrua&theme=react-dark&bg_color=00000000&color=6CABDD&line=6CABDD&point=FFCE00&area=true&area_color=6CABDD30" > assets/activity.svg
 
       - name: Commit and Push
         run: |
