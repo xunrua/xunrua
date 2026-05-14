@@ -5,7 +5,7 @@
 
 <!-- ===== 打字机效果：将军语录 ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&weight=700&size=22&pause=1500&color=9B6DFF&center=true&vCenter=true&width=600&lines=此刻，寂滅之時;唯有永恆，才最接近天理;浮世千百年來風景依舊;人之在世，卻如白露與泡影;你，要與我為敵嗎？" />
+  <img src="./assets/typing.svg" />
 </p>
 
 <!-- ===== 雷元素核心徽章 ===== -->
