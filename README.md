@@ -1,57 +1,55 @@
-<!-- ===== 顶部 Banner：稻妻·雷鸣 ===== -->
 <p align="center">
   <img src="./assets/typing.svg" />
 </p>
 
-<!-- ===== 雷元素核心徽章 ===== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Electro-9b6dff?style=flat-square&labelColor=1a0a2e" />
-  <img src="https://img.shields.io/badge/Inazuma-663399?style=flat-square&labelColor=1a0a2e" />
-  <img src="https://img.shields.io/badge/Polearm-ffd700?style=flat-square&labelColor=1a0a2e" />
-  <img src="https://img.shields.io/badge/Vision-9b6dff?style=flat-square&labelColor=1a0a2e" />
+  <img src="./assets/electro.webp" width="18" />
+  <img src="https://img.shields.io/badge/雷元素-Electro-9b6dff?style=flat-square&labelColor=1a0a2e" />
+  <img src="https://img.shields.io/badge/稻妻-Inazuma-663399?style=flat-square&labelColor=1a0a2e" />
+  <img src="https://img.shields.io/badge/长柄武器-Polearm-ffd700?style=flat-square&labelColor=1a0a2e" />
+  <img src="https://img.shields.io/badge/神之眼-Vision-9b6dff?style=flat-square&labelColor=1a0a2e" />
 </p>
 
 ---
 
-<!-- ===== 将军档案 ===== -->
-<h3 align="center">Raiden Shogun / Character Profile</h3>
+<h3 align="center">雷电将军 / 角色档案</h3>
 
 <table align="center" border="0">
   <tr>
     <td valign="top" width="55%">
 
 ```
-Name:     Raiden Shogun / Ei / Beelzebul
-Vision:   Electro — Eternity
-Weapon:   Engulfing Lightning (5-Star, R5)
-Region:   Inazuma / Narukami Island / Tenshukaku
-Constellation: Imperatrix Umbrosa
-Hobby:    Tricolor Dango, Light Novels, Can't Cook
-Contact:  Through Yae Miko (or open an Issue)
+称号:     雷电将军 / 雷电影 / 巴尔泽布
+神之眼:   雷 — 永恒
+武器:     薙草之稻光（五星满精）
+所属:     稻妻 / 鸣神岛 / 天守阁
+命之座:   天下人座
+爱好:     三彩团子、轻小说、不会做饭
+联络:     通过八重神子转达（或直接发 Issue）
 ```
 
-- **Pursuit**: Weaving immortal code in the name of Eternity
-- **Elemental Skill**: `sudo rm -rf /` (Do NOT attempt)
-- **Elemental Burst**: `git push --force-with-lease` (The Musou no Hitotachi)
-- **Passive Talent**: All `bugs` perish in thunderlight
-- **Special Dish**: Way of the Strong (but I can't cook, the Shogun made this)
+- **追求**: 以「永恒」之名，编纂不灭的代码
+- **元素战技**: `sudo rm -rf /`（请勿尝试）
+- **元素爆发**: `git push --force-with-lease`（奶香的一刀）
+- **被动天赋**: 所有 `bug` 在雷光中灰飞烟灭
+- **特殊料理**: 三界路飨祭（但我不会做饭，这是将军做的）
 
     </td>
     <td align="center" valign="top" width="45%">
-      <img src="./assets/raiden.png" width="260" alt="Raiden Shogun" />
+      <img src="./assets/raiden.png" width="260" alt="雷电将军" />
       <br/>
-      <sub>"In the name of the Almighty Shogun, may the thunder be calmed, and may you find peace tonight."</sub>
+      <sub>「我命十方世界雷鸣平息，愿你今晚得享安睡」</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- ===== 技术栈 ===== -->
-<h3 align="center">Thousand-Armed, Hundred-Eyed / Tech Resonance</h3>
+<h3 align="center">千手百眼 / 技术共鸣</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Front_End-74c2a8?style=for-the-badge&labelColor=1a0a2e" />
+  <img src="./assets/anemo.webp" width="16" />
+  <img src="https://img.shields.io/badge/风元素-Frontend-74c2a8?style=for-the-badge&labelColor=1a0a2e" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -59,7 +57,8 @@ Contact:  Through Yae Miko (or open an Issue)
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Back_End-fab632?style=for-the-badge&labelColor=1a0a2e" />
+  <img src="./assets/geo.webp" width="16" />
+  <img src="https://img.shields.io/badge/岩元素-Backend-fab632?style=for-the-badge&labelColor=1a0a2e" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -67,14 +66,16 @@ Contact:  Through Yae Miko (or open an Issue)
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data-af8ec1?style=for-the-badge&labelColor=1a0a2e" />
+  <img src="./assets/electro.webp" width="16" />
+  <img src="https://img.shields.io/badge/雷元素-Data-af8ec1?style=for-the-badge&labelColor=1a0a2e" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dev_Ops-ffd700?style=for-the-badge&labelColor=1a0a2e" />
+  <img src="./assets/dendro.webp" width="16" />
+  <img src="https://img.shields.io/badge/草元素-DevOps-a5c23b?style=for-the-badge&labelColor=1a0a2e" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -83,8 +84,7 @@ Contact:  Through Yae Miko (or open an Issue)
 
 ---
 
-<!-- ===== 数据统计 ===== -->
-<h3 align="center">Tenshukaku / Data Panel</h3>
+<h3 align="center">天守阁 / 数据面板</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xunrua&show_icons=true&theme=transparent&title_color=9b6dff&text_color=e0c3fc&icon_color=ffd700&border_color=663399&ring_color=9b6dff" height="185" />
@@ -98,8 +98,7 @@ Contact:  Through Yae Miko (or open an Issue)
 
 ---
 
-<!-- ===== 成就奖杯 ===== -->
-<h3 align="center">Thousand-Armed, Hundred-Eyed / Achievements</h3>
+<h3 align="center">千手百眼 / 成就</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=xunrua&theme=dracula&no-frame=true&row=1&column=7&title_color=9b6dff&margin-w=10" />
@@ -107,8 +106,7 @@ Contact:  Through Yae Miko (or open an Issue)
 
 ---
 
-<!-- ===== 社交链接 ===== -->
-<h3 align="center">Grand Narukami Shrine / Contact</h3>
+<h3 align="center">鸣神大社 / 联络方式</h3>
 
 <p align="center">
   <a href="https://github.com/xunrua">
@@ -124,13 +122,12 @@ Contact:  Through Yae Miko (or open an Issue)
 
 ---
 
-<!-- ===== 底部 ===== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xunrua&color=9b6dff&style=flat-square&label=Yae%20Miko%20Counter" alt="Visitors" />
 </p>
 
 <p align="center">
-  <sub>"In the name of the Almighty Shogun, may the thunder be calmed, and may you find peace tonight."</sub>
+  <sub>「我命十方世界雷鸣平息，愿你今晚得享安睡」</sub>
   <br/>
-  <sub>— Raiden Shogun / Ei</sub>
+  <sub>— 雷电将军 · 雷电影</sub>
 </p>
