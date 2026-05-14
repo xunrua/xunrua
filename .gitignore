@@ -1,0 +1,14 @@
+# Ignore OMC / Claude internal files
+.claude/
+.omc/
+
+# Ignore project subdirectories (not part of profile)
+blog-project/
+claude-profile/
+flutter/
+yaya-calendar/
+yaya-calendar-flutter/
+f5c904ecc23c0ed4dbe3004f8020f831/
+
+# Ignore downloaded artifacts
+UI_AvatarIcon_*.png

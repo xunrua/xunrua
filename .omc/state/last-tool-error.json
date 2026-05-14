@@ -1,7 +1,0 @@
-{
-  "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"mkdir -p /Users/sun/Developer/assets && cd /Users/sun/Developer/assets && curl -sL -o raiden.png \\\"https://upload-os-bbs.hoyolab.com/upload/2021/09/01/73514913/28e5840c2493e6f4a73e59c87977...",
-  "error": "Exit code 35",
-  "timestamp": "2026-05-14T14:29:21.232Z",
-  "retry_count": 1
-}

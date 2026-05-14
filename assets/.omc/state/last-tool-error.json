@@ -1,7 +1,0 @@
-{
-  "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"curl -sL -o electro.png \\\"https://upload-os-bbs.mihoyo.com/game_record/genshin/element_icon/UI_Icon_Element_Electro.png\\\" && curl -sL -o anemo.png \\\"https://upload-os-bbs.mihoyo.com/game_r...",
-  "error": "Exit code 35",
-  "timestamp": "2026-05-14T14:33:08.136Z",
-  "retry_count": 1
-}
