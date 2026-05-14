@@ -87,13 +87,11 @@
 <h3 align="center">天守阁 / 数据面板</h3>
 
 <p align="center">
-  <img src="./assets/stats.svg" height="185" />
-  &nbsp;
-  <img src="./assets/top-langs.svg" height="185" />
+  <img src="./assets/streak.svg" />
 </p>
 
 <p align="center">
-  <img src="./assets/streak.svg" />
+  <img src="./assets/trophy.svg" />
 </p>
 
 ---

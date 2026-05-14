@@ -20,8 +20,6 @@ jobs:
 
       - name: Download GitHub Stats SVGs
         run: |
-          curl -sL "https://github-readme-stats.vercel.app/api?username=xunrua&show_icons=true&theme=transparent&title_color=9b6dff&text_color=e0c3fc&icon_color=ffd700&border_color=663399&ring_color=9b6dff&count_private=true" > assets/stats.svg
-          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=xunrua&layout=compact&theme=transparent&title_color=9b6dff&text_color=e0c3fc&border_color=663399" > assets/top-langs.svg
           curl -sL "https://github-readme-streak-stats.herokuapp.com/?user=xunrua&theme=transparent&stroke=9b6dff&ring=ffd700&fire=ef7a35&currStreakNum=e0c3fc&sideNums=ff6b9d&currStreakLabel=9b6dff&sideLabels=e0c3fc&dates=9b6dff" > assets/streak.svg
           curl -sL "https://github-profile-trophy.vercel.app/?username=xunrua&theme=dracula&no-frame=true&row=1&column=7&title_color=9b6dff&margin-w=10" > assets/trophy.svg
 
@@ -29,5 +27,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/stats.svg assets/top-langs.svg assets/streak.svg assets/trophy.svg
+          git add assets/streak.svg assets/trophy.svg
           git diff --staged --quiet || (git commit -m "chore: update github stats [skip ci]" && git push)
