@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp ~/.claude/settings.json ~/.claude/settings.json.backup-before-test)",
+      "Bash(./target/release/claude-profile switch *)",
+      "Bash(./target/release/claude-profile list *)",
+      "Bash(./target/release/claude-profile rollback *)"
+    ]
+  }
+}

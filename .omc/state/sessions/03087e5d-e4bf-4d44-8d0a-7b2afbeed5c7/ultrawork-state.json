@@ -1,0 +1,11 @@
+{
+  "active": true,
+  "started_at": "2026-05-12T14:19:50.079Z",
+  "original_prompt": "ulw 参考 @yaya-calendar/ 使用flutter在当前项目进行重写，需要合理的注释，每完成一部分需要进行提交",
+  "session_id": "03087e5d-e4bf-4d44-8d0a-7b2afbeed5c7",
+  "project_path": "/Users/sun/Developer",
+  "reinforcement_count": 0,
+  "awaiting_confirmation": true,
+  "awaiting_confirmation_set_at": "2026-05-12T14:19:50.079Z",
+  "last_checked_at": "2026-05-12T14:19:50.079Z"
+}

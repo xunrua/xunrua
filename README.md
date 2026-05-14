@@ -43,7 +43,7 @@
 
     </td>
     <td align="center" valign="top" width="45%">
-      <img src="https://upload-os-bbs.hoyolab.com/upload/2021/09/01/73514913/28e5840c2493e6f4a73e59c8797700c6_8759967703500441096.png" width="260" alt="雷電將軍" />
+      <img src="./assets/raiden.png" width="260" alt="雷電將軍" />
       <br/>
       <sub>💜 「我命十方世界雷鳴平息，願你今晚得享安睡」</sub>
     </td>
