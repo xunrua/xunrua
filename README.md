@@ -87,13 +87,13 @@
 <h3 align="center">天守阁 / 数据面板</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xunrua&show_icons=true&theme=transparent&title_color=9b6dff&text_color=e0c3fc&icon_color=ffd700&border_color=663399&ring_color=9b6dff" height="185" />
+  <img src="./assets/stats.svg" height="185" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xunrua&layout=compact&theme=transparent&title_color=9b6dff&text_color=e0c3fc&border_color=663399" height="185" />
+  <img src="./assets/top-langs.svg" height="185" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xunrua&theme=transparent&stroke=9b6dff&ring=ffd700&fire=ef7a35&currStreakNum=e0c3fc&sideNums=ff6b9d&currStreakLabel=9b6dff&sideLabels=e0c3fc&dates=9b6dff" />
+  <img src="./assets/streak.svg" />
 </p>
 
 ---
@@ -101,7 +101,7 @@
 <h3 align="center">千手百眼 / 成就</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xunrua&theme=dracula&no-frame=true&row=1&column=7&title_color=9b6dff&margin-w=10" />
+  <img src="./assets/trophy.svg" />
 </p>
 
 ---
