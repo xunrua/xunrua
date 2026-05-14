@@ -91,12 +91,8 @@
 </p>
 
 <p align="center">
-  <img src="./assets/trophy.svg" />
+  <img src="./assets/activity.svg" />
 </p>
-
----
-
-<h3 align="center">千手百眼 / 成就</h3>
 
 <p align="center">
   <img src="./assets/trophy.svg" />
