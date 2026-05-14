@@ -12,36 +12,50 @@
 
 ---
 
-<h3 align="center">雷电将军 / 角色档案</h3>
+<h2 align="center">雷电将军 · 角色档案</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/称号-雷电将军／雷电影／巴尔泽布-9b6dff?style=flat-square&labelColor=1a0a2e" />
+  <img src="https://img.shields.io/badge/神之眼-雷·永恒-9b6dff?style=flat-square&labelColor=1a0a2e" />
+  <img src="https://img.shields.io/badge/武器-薙草之稻光_五星-ffd700?style=flat-square&labelColor=1a0a2e" />
+  <img src="https://img.shields.io/badge/所属-稻妻·天守阁-663399?style=flat-square&labelColor=1a0a2e" />
+  <img src="https://img.shields.io/badge/命之座-天下人座-af8ec1?style=flat-square&labelColor=1a0a2e" />
+</p>
+
+<p align="center">
+  <img src="./assets/raiden.webp" width="320" alt="雷电将军" />
+</p>
+
+<blockquote>
+<p align="center">
+  <strong>天赋技能</strong>
+</p>
 
 <table align="center" border="0">
   <tr>
-    <td valign="top" width="55%">
-
-```
-称号:     雷电将军 / 雷电影 / 巴尔泽布
-神之眼:   雷 — 永恒
-武器:     薙草之稻光（五星满精）
-所属:     稻妻 / 鸣神岛 / 天守阁
-命之座:   天下人座
-爱好:     三彩团子、轻小说、不会做饭
-联络:     通过八重神子转达（或直接发 Issue）
-```
-
-- **追求**: 以「永恒」之名，编纂不灭的代码
-- **元素战技**: `sudo rm -rf /`（请勿尝试）
-- **元素爆发**: `git push --force-with-lease`（奶香的一刀）
-- **被动天赋**: 所有 `bug` 在雷光中灰飞烟灭
-- **特殊料理**: 三界路飨祭（但我不会做饭，这是将军做的）
-
-    </td>
-    <td align="center" valign="top" width="45%">
-      <img src="./assets/raiden.webp" width="300" alt="雷电将军" />
-      <br/>
-      <sub>「我命十方世界雷鸣平息，愿你今晚得享安睡」</sub>
-    </td>
+    <td align="right" width="120"><b>追求</b></td>
+    <td>以「永恒」之名，编纂不灭的代码</td>
+  </tr>
+  <tr>
+    <td align="right"><b>元素战技</b></td>
+    <td><code>sudo rm -rf /</code>（请勿尝试）</td>
+  </tr>
+  <tr>
+    <td align="right"><b>元素爆发</b></td>
+    <td><code>git push --force-with-lease</code>（奶香的一刀）</td>
+  </tr>
+  <tr>
+    <td align="right"><b>被动天赋</b></td>
+    <td>所有 <code>bug</code> 在雷光中灰飞烟灭</td>
+  </tr>
+  <tr>
+    <td align="right"><b>特殊料理</b></td>
+    <td>三界路飨祭（但我不会做饭）</td>
   </tr>
 </table>
+</blockquote>
+
+<p align="center"><sub>「我命十方世界雷鸣平息，愿你今晚得享安睡」</sub></p>
 
 ---
 
