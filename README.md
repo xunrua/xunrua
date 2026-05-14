@@ -36,7 +36,7 @@
 
     </td>
     <td align="center" valign="top" width="45%">
-      <img src="./assets/raiden.png" width="260" alt="雷电将军" />
+      <img src="./assets/raiden.webp" width="300" alt="雷电将军" />
       <br/>
       <sub>「我命十方世界雷鸣平息，愿你今晚得享安睡」</sub>
     </td>
