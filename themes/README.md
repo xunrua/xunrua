@@ -18,7 +18,7 @@ This repository maintains multiple themed versions of the GitHub profile README.
 - **Primary**: Sky Blue (#6CABDD)
 - **Secondary**: Navy (#1C2C5B)
 - **Accent**: Gold (#FFCE00)
-- **Character**: Erling Haaland (埃尔林·哈兰德)
+- **Club**: Manchester City FC
 - **Location**: `themes/mancity/`
 
 ## Switching Themes
