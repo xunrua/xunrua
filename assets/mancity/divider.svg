@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 24" width="400" height="24">
+  <!-- left line -->
+  <line x1="20" y1="12" x2="175" y2="12" stroke="#6CABDD" stroke-width="1.2"/>
+  <!-- football outline -->
+  <circle cx="200" cy="12" r="9" fill="none" stroke="#6CABDD" stroke-width="1"/>
+  <!-- hexagon -->
+  <polygon points="200,6 204.5,9 204.5,15 200,18 195.5,15 195.5,9"
+           fill="none" stroke="#6CABDD" stroke-width="0.6"/>
+  <!-- spokes -->
+  <line x1="200" y1="6" x2="200" y2="3.5" stroke="#6CABDD" stroke-width="0.6"/>
+  <line x1="204.5" y1="9" x2="207.5" y2="7.5" stroke="#6CABDD" stroke-width="0.6"/>
+  <line x1="204.5" y1="15" x2="207.5" y2="16.5" stroke="#6CABDD" stroke-width="0.6"/>
+  <line x1="200" y1="18" x2="200" y2="20.5" stroke="#6CABDD" stroke-width="0.6"/>
+  <line x1="195.5" y1="15" x2="192.5" y2="16.5" stroke="#6CABDD" stroke-width="0.6"/>
+  <line x1="195.5" y1="9" x2="192.5" y2="7.5" stroke="#6CABDD" stroke-width="0.6"/>
+  <!-- right line -->
+  <line x1="225" y1="12" x2="380" y2="12" stroke="#6CABDD" stroke-width="1.2"/>
+</svg>

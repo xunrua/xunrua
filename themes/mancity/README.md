@@ -17,7 +17,9 @@
 
 <p align="center"><sub>Blue Moon · 蓝月当空</sub></p>
 
-<p align="center">─── o ─── o ─── o ───</p>
+<p align="center">
+  <img src="./assets/mancity/divider.svg" />
+</p>
 
 <h3 align="center">荣誉殿堂</h3>
 
@@ -30,7 +32,9 @@
   <img src="https://img.shields.io/badge/世俱杯-FFC659?style=for-the-badge&labelColor=1C2C5B" />
 </p>
 
-<p align="center">─── o ─── o ─── o ───</p>
+<p align="center">
+  <img src="./assets/mancity/divider.svg" />
+</p>
 
 <h3 align="center">首发阵容 · 4-3-3</h3>
 
@@ -69,7 +73,9 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-<p align="center">─── o ─── o ─── o ───</p>
+<p align="center">
+  <img src="./assets/mancity/divider.svg" />
+</p>
 
 <h3 align="center">替补席</h3>
 
@@ -80,7 +86,9 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-<p align="center">─── o ─── o ─── o ───</p>
+<p align="center">
+  <img src="./assets/mancity/divider.svg" />
+</p>
 
 <h3 align="center">赛季数据</h3>
 
@@ -88,7 +96,9 @@
   <img src="./assets/activity.svg" />
 </p>
 
-<p align="center">─── o ─── o ─── o ───</p>
+<p align="center">
+  <img src="./assets/mancity/divider.svg" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xunrua&color=6CABDD&style=flat-square&label=Cityzens" alt="Visitors" />
